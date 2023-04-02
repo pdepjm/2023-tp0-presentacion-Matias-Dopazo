@@ -1,7 +1,7 @@
 # Matias Dopazo
 Buenas soy mati tengo 19 años
 - legajo: 208.965-8
-foto
+![error 404](/yo (2).jpg)
 ## Algunas cosas sobre mi:
 - me gustan los deportes e ir al gimasio
 - estoy en el segundo año de la carrera
