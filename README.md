@@ -1,11 +1,8 @@
-## Título
-### Subtítulo
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
-- Elemento 1
-- Elemento 2
-- Elemento 3
-Este es un ejemplo de texto que da entrada a una lista numerada:
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
+# Matias Dopazo
+Buenas soy mati tengo 19 años
+- legajo: 208.965-8
+foto
+## Algunas cosas sobre mi:
+- me gustan los deportes e ir al gimasio
+- estoy en el segundo año de la carrera
+- Me encantan las sagas, mi favorita es piratas del caribe
